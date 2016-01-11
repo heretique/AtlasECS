@@ -27,7 +27,7 @@ Examples:
 For an entity to be registered with the ECS it needs to have at least a component that inherits AtlasComponent. This class provides automatic registration and de-registration of the entity holding this component with Atlas. Entities in our case are considered any GameObjects that hold at least one AtlasComponent.
 
 ### Utilities
-Atlas comes with a builting Object Pool for those who want to minimize allocations as well as some builtin useful systems and components.
+Atlas comes with a built-in Object Pool for those who want to minimize allocations as well as some builtin useful systems and components.
 
 ## Usage
 Import this folder directly into your Unity Project's Asset folder.
